@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 ## Contact
 
-You can reach me through the contact form or by sending an email to: [your_email@example.com]
+You can reach me through the contact form or by sending an email to: ericmue345@gmail.com
 
 ## License
 
@@ -67,7 +67,7 @@ Thank you for visiting my portfolio! Feel free to explore and contact me if you 
             
 ### Customization:
 - **Live Demo Link**: Replace `https://your-username.github.io/your-portfolio` with the actual URL where your portfolio is deployed (e.g., `https://mue-eric.github.io/portfolio` if you use GitHub Pages).
-- **Email Address**: Replace `[your_email@example.com]` with your actual email address.
+- **Email Address**: ericmue345@gmail.com
 - **GitHub Repo URL**: Replace `https://github.com/yourusername/your-portfolio.git` with your actual GitHub repository URL.
 
 This way, people can visit the live website directly from the README file!# portfolio
