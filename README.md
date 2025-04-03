@@ -26,7 +26,7 @@ This is a personal portfolio website built to showcase my skills, projects, and 
 ## Live Demo
 
 You can view the live, deployed version of my portfolio website here:  
-[**My Portfolio**](https://your-username.github.io/your-portfolio)
+[**My Portfolio**](https://portfolio-seven-snowy-96.vercel.app/)
 
 ## Setup
 
