@@ -68,6 +68,5 @@ Thank you for visiting my portfolio! Feel free to explore and contact me if you 
 ### Customization:
 - **Live Demo Link**: Replace `https://your-username.github.io/your-portfolio` with the actual URL where your portfolio is deployed (e.g., `https://mue-eric.github.io/portfolio` if you use GitHub Pages).
 - **Email Address**: ericmue345@gmail.com
-- **GitHub Repo URL**: Replace `https://github.com/yourusername/your-portfolio.git` with your actual GitHub repository URL.
+- **GitHub Repo URL**:https://github.com/mueeric-blackhat/portfolio.git
 
-This way, people can visit the live website directly from the README file!# portfolio
